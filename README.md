@@ -8,7 +8,7 @@ Instagram logo is created using html and css.
 
 ## Screenshots
 
-![Screenshot](Instagram.png)
+![Screenshot](Screenshot.png)
 
 ## How to use 
 1. Download zip file 
